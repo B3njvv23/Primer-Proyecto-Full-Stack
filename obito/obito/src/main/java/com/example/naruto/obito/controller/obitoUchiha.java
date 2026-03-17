@@ -9,7 +9,7 @@ public class obitoUchiha {
 
     @GetMapping("/Obito")
     public String holaMundo(){
-        return"Obito fue el mejor personaje de naruto";
+        return"Obito fue el mejor personaje de la 4ta guerra ninja";
     }
     
 }
